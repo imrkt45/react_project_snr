@@ -26,7 +26,6 @@ const NestedItem: React.FC<NestedItemProps> = ({ data }) => {
 
   return ( 
     <ul>
-      <div>sdfdg</div>
       {Object.entries(data).map(([key, value], index) => (
         <li key={index}>
           <span onClick={() => handleClick(key)} style={{ cursor: 'pointer', fontWeight: 'bold' }}>
