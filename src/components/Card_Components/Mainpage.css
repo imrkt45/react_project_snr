@@ -1,0 +1,50 @@
+/* Mainpage.css */
+.card-container {
+    display: flex;
+    width: 266px;
+    height: 48px;
+    background: rgba(234, 234, 234, 1);
+    border: 1px solid rgba(234, 234, 234, 1);
+    border-radius: 10px;
+    align-items: center;
+    margin-bottom: 10px;
+
+
+  }
+  
+  .image-container {
+    width: 23px;
+    height: 23px;
+    margin-left: 20px;
+
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+  }
+  
+  .text-container {
+    box-sizing: border-box;
+    margin-left: 30px;
+    
+ 
+  }
+  .maincontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 20vh; */
+
+  }
+  
+.page-container {
+  display: flex;
+  flex-direction: column;
+    
+}
+
+.main-container {
+  width: 50vw; 
+}

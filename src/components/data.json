@@ -1,0 +1,106 @@
+
+
+{
+    "lastUpdatedDate": "2023-11-10T00:12:13:021",
+    "updateDate": "2023-11-10T00:12:14:058",
+    "deletedAt": null,
+    "resourceType": "directory",
+    "companyId": "snr",
+    "resourceId": "01HETMHQ2R21MJT641AAV7925X",
+    "meta": {
+        "myFiles": {},
+        "users": [
+            {
+                "lastUpdatedDate": "2023-11-10T00:28:40:993",
+                "updateDate": "2023-11-10T00:28:42:015",
+                "deletedAt": null,
+                "companyId": "snr",
+                "resourceId": "01HETNFVWTM51R81E70KGTG33S",
+                "parentId": "01HETMHQ2R21MJT641AAV7925X",
+                "creationDate": "2023-11-10T00:28:42:015",
+                "resourceName": "demo3",
+                "ownerId": "2448473c-78a7-4e0a-b20b-f6dff65188fc",
+                "resourceType": "directory"
+            },
+            {
+                "updateDate": "2023-11-09T18:42:26:269",
+                "lastUpdatedDate": "2023-11-10T00:31:43:875",
+                "deletedAt": null,
+                "companyId": "snr",
+                "resourceId": "01HETNNEG0KCHKNPWZZRH04847",
+                "parentId": "01HETMHQ2R21MJT641AAV7925X",
+                "creationDate": "2023-11-09T18:42:26:269",
+                "resourceName": "demo3",
+                "ownerId": "2448473c-78a7-4e0a-b20b-f6dff65188fc",
+                "resourceType": "file"
+               
+            },
+            {
+                "updateDate": "2023-11-09T18:59:34:009",
+                "lastUpdatedDate": "2023-11-10T00:55:43:169",
+                "deletedAt": null,
+                "companyId": "snr",
+                "resourceId": "01HETQ1C1WGQHFP2KTY5DM8ZAZ",
+                "parentId": "01HETMHQ2R21MJT641AAV7925X",
+                "creationDate": "2023-11-09T18:59:34:009",
+                "resourceName": "thumbnaildemo",
+                "ownerId": "2448473c-78a7-4e0a-b20b-f6dff65188fc",
+                "resourceType": "file"
+                
+            },
+            {
+                "lastUpdatedDate": "2023-11-10T00:28:13:242",
+                "updateDate": "2023-11-10T00:28:14:266",
+                "deletedAt": null,
+                "companyId": "snr",
+                "resourceId": "01HETNF0SPYFSG8H9Q1TP57KW7",
+                "parentId": "01HETMHQ2R21MJT641AAV7925X",
+                "creationDate": "2023-11-10T00:28:14:265",
+                "resourceName": "demo2",
+                "ownerId": "2448473c-78a7-4e0a-b20b-f6dff65188fc",
+                "resourceType": "directory"
+            },
+  {
+                "lastUpdatedDate": "2023-11-10T00:28:13:242",
+                "updateDate": "2023-11-10T00:28:14:266",
+                "deletedAt": null,
+                "companyId": "snr",
+                "resourceId": "01HETNF0SPYFSG8H9Q1TP5712",
+                "parentId": "01HETMHQ2R21MJT641AAV7925X",
+                "creationDate": "2023-11-10T00:28:14:265",
+                "resourceName": "demo2",
+                "ownerId": "2448473c-78a7-4e0a-b20b-f6dff65188fc",
+                "resourceType": "directory"
+            },
+  {
+                "lastUpdatedDate": "2023-11-10T00:28:13:242",
+                "updateDate": "2023-11-10T00:28:14:266",
+                "deletedAt": null,
+                "companyId": "snr",
+                "resourceId": "01HETNF0SPYFSG8H9Q1TP57K61",
+                "parentId": "01HETMHQ2R21MJT641AAV7925X",
+                "creationDate": "2023-11-10T00:28:14:265",
+                "resourceName": "demo2",
+                "ownerId": "2448473c-78a7-4e0a-b20b-f6dff65188fc",
+                "resourceType": "directory"
+            },
+  {
+                "lastUpdatedDate": "2023-11-10T00:28:13:242",
+                "updateDate": "2023-11-10T00:28:14:266",
+                "deletedAt": null,
+                "companyId": "snr",
+                "resourceId": "01HETNF0SPYFSG8H9Q1TP57K32",
+                "parentId": "01HETMHQ2R21MJT641AAV7925X",
+                "creationDate": "2023-11-10T00:28:14:265",
+                "resourceName": "demo2",
+                "ownerId": "2448473c-78a7-4e0a-b20b-f6dff65188fc",
+                "resourceType": "directory"
+            }
+        ]
+    },
+    "sharedWith": {},
+    "creationDate": "2023-11-10T00:12:14:058",
+    "resourceName": "demo",
+    "ownerId": "2448473c-78a7-4e0a-b20b-f6dff65188fc"
+}
+
